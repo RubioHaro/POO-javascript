@@ -1,2 +1,1 @@
-# POO-en-Javascript
-Programación Orientada a Objetos en Javascript con Node JS
+# Pogramación Orientada a Objetos: Javascript
